@@ -1,6 +1,7 @@
 # Anagrams-Game-Python
 
 Introduction
+
 For this project you will be writing a game that lets users guess words that can be made using only the letters of a six-letter base word.
 
 Below is a link to a words.txt file that contains 81486 words, one per line. You will use it as a dictionary of words for this assignment, and only words in that file are considered valid words.
